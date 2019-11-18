@@ -1,0 +1,2 @@
+﻿  OneLoneCoder_FlappyBird.cpp
+D:\cpp\Project2\olcConsoleGameEngine.h(6,1): fatal error C1189: #error:  Please enable UNICODE for your compiler! VS: Project Properties -> General -> Character Set -> Use Unicode. Thanks! - Javidx9

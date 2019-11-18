@@ -1,0 +1,8 @@
+﻿  ConsoleGraphics.cpp
+  FlappyBird.cpp
+D:\cpp\Project2\FlappyBird.cpp(12,18): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+D:\cpp\Project2\FlappyBird.cpp(12,21): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Graphics.cpp
+  Создание кода...
+D:\cpp\Project2\FlappyBird.cpp(32,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> D:\cpp\Project2\x64\Debug\Project2.exe
